@@ -11,5 +11,10 @@ for(int i=0; i<10; i++){
     printf("Hola natas\n\n");
 }
 
+do{
 
+    printf("holaaa\n\n");
+    i++;
+
+} while(i<10);
 estoy editando tu archivo porque soy re malo
